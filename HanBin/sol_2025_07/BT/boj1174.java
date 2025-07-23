@@ -1,4 +1,4 @@
-package sol_2025_07;
+package sol_2025_07.BT;
 
 import java.io.BufferedReader;
 import java.io.IOException;
